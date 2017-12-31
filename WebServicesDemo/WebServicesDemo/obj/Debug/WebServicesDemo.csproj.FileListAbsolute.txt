@@ -1,0 +1,66 @@
+c:\users\rafael\documents\visual studio 2015\Projects\WebServicesDemo\WebServicesDemo\bin\ApplicationInsights.config
+c:\users\rafael\documents\visual studio 2015\Projects\WebServicesDemo\WebServicesDemo\bin\roslyn\csc.exe
+c:\users\rafael\documents\visual studio 2015\Projects\WebServicesDemo\WebServicesDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\rafael\documents\visual studio 2015\Projects\WebServicesDemo\WebServicesDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\rafael\documents\visual studio 2015\Projects\WebServicesDemo\WebServicesDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\rafael\documents\visual studio 2015\Projects\WebServicesDemo\WebServicesDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\rafael\documents\visual studio 2015\Projects\WebServicesDemo\WebServicesDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\rafael\documents\visual studio 2015\Projects\WebServicesDemo\WebServicesDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\rafael\documents\visual studio 2015\Projects\WebServicesDemo\WebServicesDemo\bin\roslyn\System.Collections.Immutable.dll
+c:\users\rafael\documents\visual studio 2015\Projects\WebServicesDemo\WebServicesDemo\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\rafael\documents\visual studio 2015\Projects\WebServicesDemo\WebServicesDemo\bin\roslyn\vbc.exe
+c:\users\rafael\documents\visual studio 2015\Projects\WebServicesDemo\WebServicesDemo\bin\roslyn\VBCSCompiler.exe
+c:\users\rafael\documents\visual studio 2015\Projects\WebServicesDemo\WebServicesDemo\bin\roslyn\VBCSCompiler.exe.config
+c:\users\rafael\documents\visual studio 2015\Projects\WebServicesDemo\WebServicesDemo\bin\WebServicesDemo.dll.config
+c:\users\rafael\documents\visual studio 2015\Projects\WebServicesDemo\WebServicesDemo\bin\WebServicesDemo.dll
+c:\users\rafael\documents\visual studio 2015\Projects\WebServicesDemo\WebServicesDemo\bin\WebServicesDemo.pdb
+c:\users\rafael\documents\visual studio 2015\Projects\WebServicesDemo\WebServicesDemo\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\rafael\documents\visual studio 2015\Projects\WebServicesDemo\WebServicesDemo\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\rafael\documents\visual studio 2015\Projects\WebServicesDemo\WebServicesDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\rafael\documents\visual studio 2015\Projects\WebServicesDemo\WebServicesDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\rafael\documents\visual studio 2015\Projects\WebServicesDemo\WebServicesDemo\bin\Microsoft.AI.Web.dll
+c:\users\rafael\documents\visual studio 2015\Projects\WebServicesDemo\WebServicesDemo\bin\Microsoft.AI.WindowsServer.dll
+c:\users\rafael\documents\visual studio 2015\Projects\WebServicesDemo\WebServicesDemo\bin\Microsoft.ApplicationInsights.dll
+c:\users\rafael\documents\visual studio 2015\Projects\WebServicesDemo\WebServicesDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\rafael\documents\visual studio 2015\Projects\WebServicesDemo\WebServicesDemo\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\rafael\documents\visual studio 2015\Projects\WebServicesDemo\WebServicesDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\rafael\documents\visual studio 2015\Projects\WebServicesDemo\WebServicesDemo\bin\Microsoft.AI.Web.xml
+c:\users\rafael\documents\visual studio 2015\Projects\WebServicesDemo\WebServicesDemo\bin\Microsoft.AI.WindowsServer.xml
+c:\users\rafael\documents\visual studio 2015\Projects\WebServicesDemo\WebServicesDemo\bin\Microsoft.ApplicationInsights.xml
+c:\users\rafael\documents\visual studio 2015\Projects\WebServicesDemo\WebServicesDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\rafael\documents\visual studio 2015\Projects\WebServicesDemo\WebServicesDemo\obj\Debug\WebServicesDemo.csprojResolveAssemblyReference.cache
+c:\users\rafael\documents\visual studio 2015\Projects\WebServicesDemo\WebServicesDemo\obj\Debug\WebServicesDemo.dll
+c:\users\rafael\documents\visual studio 2015\Projects\WebServicesDemo\WebServicesDemo\obj\Debug\WebServicesDemo.pdb
+E:\Proyectos\C#\ASP.NET WED_SERVICES\ASP.NET\WebServicesDemo\WebServicesDemo\bin\ApplicationInsights.config
+E:\Proyectos\C#\ASP.NET WED_SERVICES\ASP.NET\WebServicesDemo\WebServicesDemo\bin\roslyn\csc.exe
+E:\Proyectos\C#\ASP.NET WED_SERVICES\ASP.NET\WebServicesDemo\WebServicesDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Proyectos\C#\ASP.NET WED_SERVICES\ASP.NET\WebServicesDemo\WebServicesDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Proyectos\C#\ASP.NET WED_SERVICES\ASP.NET\WebServicesDemo\WebServicesDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Proyectos\C#\ASP.NET WED_SERVICES\ASP.NET\WebServicesDemo\WebServicesDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Proyectos\C#\ASP.NET WED_SERVICES\ASP.NET\WebServicesDemo\WebServicesDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Proyectos\C#\ASP.NET WED_SERVICES\ASP.NET\WebServicesDemo\WebServicesDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Proyectos\C#\ASP.NET WED_SERVICES\ASP.NET\WebServicesDemo\WebServicesDemo\bin\roslyn\System.Collections.Immutable.dll
+E:\Proyectos\C#\ASP.NET WED_SERVICES\ASP.NET\WebServicesDemo\WebServicesDemo\bin\roslyn\System.Reflection.Metadata.dll
+E:\Proyectos\C#\ASP.NET WED_SERVICES\ASP.NET\WebServicesDemo\WebServicesDemo\bin\roslyn\vbc.exe
+E:\Proyectos\C#\ASP.NET WED_SERVICES\ASP.NET\WebServicesDemo\WebServicesDemo\bin\roslyn\VBCSCompiler.exe
+E:\Proyectos\C#\ASP.NET WED_SERVICES\ASP.NET\WebServicesDemo\WebServicesDemo\bin\roslyn\VBCSCompiler.exe.config
+E:\Proyectos\C#\ASP.NET WED_SERVICES\ASP.NET\WebServicesDemo\WebServicesDemo\bin\WebServicesDemo.dll.config
+E:\Proyectos\C#\ASP.NET WED_SERVICES\ASP.NET\WebServicesDemo\WebServicesDemo\bin\WebServicesDemo.dll
+E:\Proyectos\C#\ASP.NET WED_SERVICES\ASP.NET\WebServicesDemo\WebServicesDemo\bin\WebServicesDemo.pdb
+E:\Proyectos\C#\ASP.NET WED_SERVICES\ASP.NET\WebServicesDemo\WebServicesDemo\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Proyectos\C#\ASP.NET WED_SERVICES\ASP.NET\WebServicesDemo\WebServicesDemo\bin\Microsoft.AI.DependencyCollector.dll
+E:\Proyectos\C#\ASP.NET WED_SERVICES\ASP.NET\WebServicesDemo\WebServicesDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Proyectos\C#\ASP.NET WED_SERVICES\ASP.NET\WebServicesDemo\WebServicesDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Proyectos\C#\ASP.NET WED_SERVICES\ASP.NET\WebServicesDemo\WebServicesDemo\bin\Microsoft.AI.Web.dll
+E:\Proyectos\C#\ASP.NET WED_SERVICES\ASP.NET\WebServicesDemo\WebServicesDemo\bin\Microsoft.AI.WindowsServer.dll
+E:\Proyectos\C#\ASP.NET WED_SERVICES\ASP.NET\WebServicesDemo\WebServicesDemo\bin\Microsoft.ApplicationInsights.dll
+E:\Proyectos\C#\ASP.NET WED_SERVICES\ASP.NET\WebServicesDemo\WebServicesDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Proyectos\C#\ASP.NET WED_SERVICES\ASP.NET\WebServicesDemo\WebServicesDemo\bin\Microsoft.AI.DependencyCollector.xml
+E:\Proyectos\C#\ASP.NET WED_SERVICES\ASP.NET\WebServicesDemo\WebServicesDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Proyectos\C#\ASP.NET WED_SERVICES\ASP.NET\WebServicesDemo\WebServicesDemo\bin\Microsoft.AI.Web.xml
+E:\Proyectos\C#\ASP.NET WED_SERVICES\ASP.NET\WebServicesDemo\WebServicesDemo\bin\Microsoft.AI.WindowsServer.xml
+E:\Proyectos\C#\ASP.NET WED_SERVICES\ASP.NET\WebServicesDemo\WebServicesDemo\bin\Microsoft.ApplicationInsights.xml
+E:\Proyectos\C#\ASP.NET WED_SERVICES\ASP.NET\WebServicesDemo\WebServicesDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Proyectos\C#\ASP.NET WED_SERVICES\ASP.NET\WebServicesDemo\WebServicesDemo\obj\Debug\WebServicesDemo.csprojResolveAssemblyReference.cache
+E:\Proyectos\C#\ASP.NET WED_SERVICES\ASP.NET\WebServicesDemo\WebServicesDemo\obj\Debug\WebServicesDemo.dll
+E:\Proyectos\C#\ASP.NET WED_SERVICES\ASP.NET\WebServicesDemo\WebServicesDemo\obj\Debug\WebServicesDemo.pdb
